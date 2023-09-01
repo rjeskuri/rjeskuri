@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @rjeskuri
-- 👀 I’m interested in data science, machine learning, and sport analytics (especially volleyball)! 
-- 🌱 I’m currently learning about search and recommender systems and handling Big Data in the cloud.
+I'm Ryan, an IT Professional transitioning into a career focused on data analytics. 
 
 
 <!---
