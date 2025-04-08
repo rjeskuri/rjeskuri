@@ -1,4 +1,4 @@
-I'm Ryan, an IT Professional transitioning into a career focused on data analytics. 
+I'm Ryan, a Data Scientist because I like wearing a different hat everyday and looking at problems from the data's point of view. 
 
 
 <!---
